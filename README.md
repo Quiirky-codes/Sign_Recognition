@@ -31,8 +31,12 @@ Initially, we use a Random Forest classifier for gesture recognition. In the nex
 
 # Installation
 * To set up the project locally:
+  
 ``
 git clone https://github.com/yourusername/ASL-Detection.git
+``
+
+``
 cd ASL-Detection
 ``
 
@@ -40,6 +44,9 @@ cd ASL-Detection
   
 ``
 python -m venv venv
+``
+
+``
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ``
 
