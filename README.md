@@ -32,29 +32,29 @@ Initially, we use a Random Forest classifier for gesture recognition. In the nex
 # Installation
 * To set up the project locally:
   
-``
+```
 git clone https://github.com/Quiirky-codes/Sign_To_Text_Recognition.git
-``
+```
 
-``
+```
 cd Sign_To_Text_Recognition
-``
+```
 
 * Create a virtual environment:
   
-``
+```
 python -m venv venv
-``
+```
 
-``
+```
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-``
+```
 
 * Install the required dependencies:
 
-``
+```
 pip install -r requirements.txt
-``
+```
 
 # Usage
 
