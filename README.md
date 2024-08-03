@@ -33,11 +33,11 @@ Initially, we use a Random Forest classifier for gesture recognition. In the nex
 * To set up the project locally:
   
 ``
-git clone https://github.com/yourusername/ASL-Detection.git
+git clone https://github.com/Quiirky-codes/Sign_To_Text_Recognition.git
 ``
 
 ``
-cd ASL-Detection
+cd Sign_To_Text_Recognition
 ``
 
 * Create a virtual environment:
@@ -55,3 +55,38 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ``
 pip install -r requirements.txt
 ``
+
+# Usage
+
+* ***Data Preprocessing:*** Run the script to preprocess and augment data.
+
+```
+python create_imgs.py
+```
+
+```
+python create_dataset.py
+```
+
+***Running this should create a pickle file***
+
+* Training the model
+
+```
+python train_classifier.py
+```
+
+***Running this should create a model file***
+
+```
+python train_classifier.py
+```
+
+# Data
+
+The dataset consists of images or video frames of ASL gestures. Ensure you have the appropriate dataset downloaded and placed in the data/ directory.
+
+# Collaboraters
+
+* Amith M Jain
+* Dheeraj N
