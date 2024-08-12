@@ -79,7 +79,7 @@ python train_classifier.py
 ***Running this should create a model file***
 
 ```
-python train_classifier.py
+python inference_classifier.py
 ```
 
 # Data
