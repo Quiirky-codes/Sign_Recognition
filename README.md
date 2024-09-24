@@ -86,7 +86,7 @@ python inference_classifier.py
 
 The dataset consists of images or video frames of ASL gestures. Ensure you have the appropriate dataset downloaded and placed in the data/ directory.
 
-# Collaboraters
+# Contributers
 
 * [Amith M Jain](https://github.com/Quiirky-codes)
 * [Dheeraj N](https://github.com/Dheeraj44444)
