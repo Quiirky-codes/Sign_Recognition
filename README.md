@@ -88,5 +88,5 @@ The dataset consists of images or video frames of ASL gestures. Ensure you have 
 
 # Collaboraters
 
-* Amith M Jain
-* Dheeraj N
+* [Amith M Jain](https://github.com/Quiirky-codes)
+* [Dheeraj N](https://github.com/Dheeraj44444)
